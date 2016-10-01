@@ -15,7 +15,7 @@ source=("http://downloads.sourceforge.net/project/${pkgname}/${pkgname}/${_ver}/
 	"sdedit.sh"
 )
 md5sums=('57932b49bdfc4d2503f570c262eeb096'
-         'df660cb818236d83567cefc50742ca88')
+         '9b363d3ce9636da6394287013494e3d4')
 noextract=("$pkgname-$_ver$_ver_download.jar")
 
 package() {
